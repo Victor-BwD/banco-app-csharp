@@ -1,0 +1,15 @@
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\bin\Debug\net7.0\BancoApp.exe
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\bin\Debug\net7.0\BancoApp.deps.json
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\bin\Debug\net7.0\BancoApp.runtimeconfig.json
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\bin\Debug\net7.0\BancoApp.dll
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\bin\Debug\net7.0\BancoApp.pdb
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.csproj.AssemblyReference.cache
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.AssemblyInfoInputs.cache
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.AssemblyInfo.cs
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.csproj.CoreCompileInputs.cache
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.dll
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\refint\BancoApp.dll
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.pdb
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\BancoApp.genruntimeconfig.cache
+F:\victo\Documents\workspace\C#\BancoApp\BancoApp\obj\Debug\net7.0\ref\BancoApp.dll
